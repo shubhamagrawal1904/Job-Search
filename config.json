@@ -2,6 +2,6 @@
   "job_info_path": "data/job_info.json",
   "resume_info_path": "data/resume_info.json",
   "llm_name": "groq",
-  "llm_model": "deepseek-r1-distill-llama-70b",
+  "llm_model": "llama-3.1-8b-instant",
   "cover_letter_path": "data/cover_letter.txt"
 } 

@@ -16,6 +16,37 @@ st.title("AI Resume & Job Search (RSS + LLM)")
 
 config = load_config()
 
+# Instructions for getting RSS feed
+with st.expander("📋 How to Get RSS Feed for Jobs"):
+    st.markdown("""
+    ### Step-by-Step Guide to Create Job RSS Feed:
+    
+    1. **Search for Jobs on LinkedIn:**
+       - Go to [LinkedIn Jobs](https://www.linkedin.com/jobs/)
+       - Search for your desired job title (e.g., "Python Developer", "Data Scientist")
+       - Add location if needed
+       - Click on any job posting
+    
+    2. **Copy the Search URL:**
+       - After searching, copy the URL from your browser
+       - Example: `https://www.linkedin.com/jobs/search/?keywords=python%20developer&location=United%20States`
+    
+    3. **Create RSS Feed:**
+       - Go to [RSS.app](https://rss.app/)
+       - Sign up/Login
+       - Click "Create New Feed"
+       - Paste your LinkedIn job search URL
+       - Give it a name (e.g., "Python Developer Jobs")
+       - Click "Create Feed"
+    
+    4. **Copy RSS URL:**
+       - RSS.app will generate an RSS feed URL
+       - Copy this URL (it will look like: `https://rss.app/feeds/1VRNR7AXWucCStUh.xml`)
+    
+    5. **Paste Below:**
+       - Paste the RSS URL in the text box below
+    """)
+
 uploaded_file = st.file_uploader("Upload your resume (PDF or DOCX)", type=["pdf", "docx"])
 rss_url = st.text_input("Enter RSS feed URL for jobs")
 
