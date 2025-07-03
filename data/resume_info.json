@@ -1,0 +1,68 @@
+{
+  "Name": "Shubham Agrawal",
+  "Email": "shubhamagrawal790@gmail.com",
+  "Phone": "+91 9039797263",
+  "Location": "Mumbai, Maharashtra",
+  "Profession": "Data Science",
+  "Education": [
+    {
+      "degree": "B.Tech. (Electrical Engineering)",
+      "institution": "National Institute of Technology, Raipur",
+      "year": 2018,
+      "GPA": 7.78
+    },
+    {
+      "degree": "12th",
+      "institution": "Delhi Public School Risali, Bhilai",
+      "year": 2014,
+      "GPA": 93.8
+    },
+    {
+      "degree": "10th",
+      "institution": "Delhi Public School Risali, Bhilai",
+      "year": 2012,
+      "GPA": 91.8
+    }
+  ],
+  "Work Experience": [
+    {
+      "company": "Citi",
+      "title": "AVP, Client Strategy and Analytics",
+      "duration": "Jan’22 – Present",
+      "description": "Leveraged web scraping and the RAG framework to collect and process unstructured open-source financial data, utilizing cutting-edge Generative AI methods such as Semantic Search and LangChain to accurately estimate the cash wallet potential of fintech companies. Applied machine learning techniques, including linear regression, to model the relationship between bankers' proactiveness/responsiveness and client revenue outcomes. Processed large-scale email and call data to quantify behavioral signals, and identified statistically significant correlations with revenue performance. Insights from the model informed targeted client engagement strategies which contributed to revenue uplift. Applied Natural Language Processing (NLP) to analyze client feedback using embeddings, K-Means and KeyBERT in extracting actionable insights that inform client experience optimization and establishing a direct correlation between client satisfaction metrics and revenue growth. Built a comprehensive client segmentation and cross-sell revenue prediction framework by combining K-Means clustering with XGBoost regression. Segmented clients based on wallet/capital utilization, engagement frequency, client size, and complexity to identify underpenetrated high-value accounts. Predicted expected cross-sell revenue using behavioral and financial features, enabling precise targeting and optimized resource allocation. Applied data mining and predictive analytics to evaluate the impact of CB and IB bankers, including product partners, during calls and meetings. Discovered a ~3x increase in episodic derivative revenue, identifying significant cross-sell opportunities, particularly in M&A buy-side with Financing."
+    },
+    {
+      "company": "ZS",
+      "title": "Decision Analytics Associate Consultant (Customer Centric Marketing Strategy)",
+      "duration": "Feb’19 – Dec’21",
+      "description": "Spearheaded the end-to-end development of advanced predictive models to optimize customer engagement strategies—actively involved from the experimentation and PoC phases through to production deployment. Personally implemented and fine-tuned Convolutional Neural Networks (CNNs) for behavioral pattern recognition and Genetic Algorithms (GAs) for sequence optimization. Played a key role in both 2D and 3D implementations, enabling channel to both channel & content optimization to tailor engagement actions. This holistic solution led to a 10–15% uplift in revenue through hyper-personalized and timely customer interactions. Built and deployed robust response models to quantify the incremental impact of promotional channels, enabling personalized customer targeting and improving multi-touch attribution accuracy and campaign ROI. Led the data-driven optimization of marketing budgets through advanced Marketing Mix Modeling (MMM), delivering strategic spend allocation recommendations that maximized ROI and enhanced campaign performance across various channels. Engineered a hybrid recommender system combining collaborative filtering with customer channel affinity modeling to forecast preferences across personal and non-personal promotional channels."
+    }
+  ],
+  "Skills": {
+    "Technical Skills": [
+      "Programming Languages: Python/R",
+      "Database Technologies: SQL Database",
+      "Data Processing & Big Data: PySpark",
+      "Machine Learning Frameworks: Pytorch, Keras"
+    ],
+    "Soft Skills": [
+      "Adaptability & Determination",
+      "Problem- Solving",
+      "Analytical",
+      "Decisiveness"
+    ]
+  },
+  "Certifications": [],
+  "Projects": [
+    {
+      "title": "Design and Implementation of Patient Care Giving System using P300 based Brain Computer Interface",
+      "description": "Engineered a sophisticated machine learning algorithm to detect and interpret EEG signal components for patient care systems, leveraging advanced techniques such as Artificial Neural Networks (ANN), K-Nearest Neighbors (KNN), and Support Vector Machines (SVM) to enhance real-time monitoring and improve patient outcomes."
+    }
+  ],
+  "LinkedIn URL": null,
+  "Other relevant info": {
+    "Address": "Mumbai, Maharashtra",
+    "Date of Birth": "19th April 1996",
+    "Languages Known": "English, Hindi"
+  }
+}

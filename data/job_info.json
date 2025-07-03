@@ -1,0 +1,112 @@
+[
+  {
+    "Job Title": "Data Scientist",
+    "Company": "IndiGo (InterGlobe Aviation Ltd)",
+    "Location": "Gurugram, Haryana, India",
+    "HR Details": null,
+    "HR Email": null,
+    "Date Posted": "2025-07-03T09:55:35.000Z",
+    "Number of Applicants": null,
+    "Top Skills Required": [
+      "Data analysis",
+      "Anomaly detection",
+      "Machine learning",
+      "Big data analytics",
+      "Programming skills",
+      "Deep learning Techniques"
+    ],
+    "Experience": "Minimum of 6 years",
+    "Summary of the job": "We are looking for a motivated and highly skilled Data Scientist to join our Flight Safety team. This role will be pivotal in using advanced data analytics and machine learning techniques to enhance flight safety decisions and processes.",
+    "title_from_rss": "IndiGo (InterGlobe Aviation Ltd) hiring Data Scientist in Gurugram, Haryana, India",
+    "link": "https://in.linkedin.com/jobs/view/data-scientist-at-indigo-interglobe-aviation-ltd-4257690082",
+    "cover_letter": "**Shubham Agrawal**  \nMumbai, Maharashtra  \nEmail: shubhamagrawal790@gmail.com  \nPhone: +91 9039797263  \nDate: [Insert Date]  \n\n**Hiring Manager**  \nIndiGo (InterGlobe Aviation Ltd.)  \nGurugram, Haryana  \n\nDear Hiring Manager,  \n\nI am excited to apply for the Data Scientist position at IndiGo (InterGlobe Aviation Ltd.). With a strong academic foundation in Electrical Engineering and over four years of experience in data-driven decision-making, predictive modeling, and business strategy optimization, I am eager to bring my expertise to IndiGo’s data science team and contribute to the airline’s continued success in the competitive aviation industry.  \n\nIn my current role as AVP, Client Strategy and Analytics at Citi, I have leveraged advanced data science techniques to solve complex business problems. I utilized web scraping and the RAG framework to process unstructured financial data, enabling actionable insights. Additionally, I applied machine learning to model relationships between banker proactiveness and client revenue, and employed NLP to analyze client feedback, ultimately building targeted client segmentation frameworks. These experiences have honed my ability to extract value from data and drive revenue growth—skills that align closely with IndiGo’s focus on optimizing operational efficiency and enhancing customer satisfaction.  \n\nPrior to Citi, I served as a Decision Analytics Associate Consultant at ZS, where I developed predictive models for customer engagement strategies. I implemented Convolutional Neural Networks (CNNs) and Genetic Algorithms to recognize and optimize behavioral patterns, and engineered hybrid recommender systems to personalize customer experiences. These projects not only showcased my technical proficiency in machine learning and data analysis but also my ability to translate complex data insights into strategic business recommendations. I am confident that these skills will enable me to make a meaningful impact at IndiGo.  \n\nWhat excites me most about this opportunity is IndiGo’s commitment to innovation and customer-centricity. I am particularly drawn to the prospect of applying my expertise in predictive modeling and NLP to optimize flight operations, enhance customer experiences, and drive data-driven decision-making across the organization. My passion for solving real-world problems, combined with my technical expertise and business acumen, makes me a strong fit for this role.  \n\nI would welcome the opportunity to discuss how my background and skills align with IndiGo’s goals. Thank you for considering my application. I look forward to the possibility of contributing to IndiGo’s continued success.  \n\nSincerely,  \nShubham Agrawal"
+  },
+  {
+    "Job Title": "Python Developer",
+    "Company": "Infosys",
+    "Location": "Bengaluru, Karnataka, India",
+    "HR Details": null,
+    "HR Email": null,
+    "Date Posted": "2025-07-03T05:06:55.000Z",
+    "Number of Applicants": null,
+    "Top Skills Required": [
+      "Python"
+    ],
+    "Experience": null,
+    "Summary of the job": "Infosys is a global leader in technology services and consulting, dedicated to helping clients navigate their digital transformation journey. A day in the life of an Infoscion involves ensuring effective Design, Development, Validation, and Support activities. Responsibilities include gathering requirements, contributing to project estimations, and building efficient programs/systems. Qualifications include educational credentials such as BTech, MCA, MTech, etc.",
+    "title_from_rss": "Infosys hiring Python Developer in Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/python-developer-at-infosys-4242299754",
+    "cover_letter": "Dear Hiring Manager,  \n\nI am writing to express my interest in the Python Developer position at Infosys. With a strong foundation in Python programming, data analysis, and machine learning, combined with hands-on experience in developing and optimizing data-driven solutions, I am confident in my ability to contribute effectively to your team.  \n\nIn my current role as AVP, Client Strategy and Analytics at Citi, I have leveraged Python extensively for web scraping, natural language processing, and predictive modeling. I successfully applied machine learning techniques to analyze client behavior and developed client segmentation frameworks that drove revenue growth. Additionally, my experience with PySpark and SQL databases has allowed me to efficiently process and integrate large datasets, ensuring seamless data-driven decision-making.  \n\nPrior to Citi, I worked as a Decision Analytics Associate Consultant at ZS, where I developed predictive models and implemented deep learning algorithms, including CNNs and Genetic Algorithms, to optimize customer engagement strategies. My work also involved engineering hybrid recommender systems and optimizing marketing budgets using advanced statistical techniques. These experiences have honed my problem-solving skills, adaptability, and ability to deliver impactful solutions in fast-paced environments.  \n\nI hold a B.Tech. in Electrical Engineering from the National Institute of Technology, Raipur, where I cultivated a strong analytical mindset and a passion for technology. My technical expertise, coupled with my determination to deliver results, aligns well with the requirements of this role. I am particularly drawn to Infosys’ commitment to innovation and excellence, and I am eager to contribute my skills and experience to support the company’s continued success.  \n\nThank you for considering my application. I would welcome the opportunity to discuss how my background and skills can contribute to the Python Developer role at Infosys. I look forward to the possibility of working with your team.  \n\nSincerely,  \nShubham Agrawal  \n+91 9039797263  \nshubhamagrawal790@gmail.com"
+  },
+  {
+    "Job Title": "ML Scientist II",
+    "Company": "Wayfair",
+    "Location": "Bengaluru, Karnataka, India",
+    "HR Details": null,
+    "HR Email": null,
+    "Date Posted": "2025-07-03",
+    "Number of Applicants": null,
+    "Top Skills Required": [
+      "Python",
+      "Machine Learning Algorithms",
+      "Cloud Platforms (GCP, AWS, Azure)",
+      "Deep Learning Frameworks",
+      "Spark Ecosystem"
+    ],
+    "Experience": "3+ years",
+    "Summary of the job": "Wayfair's Advertising business is expanding rapidly. The Advertising Optimization & Automation Science team uses machine learning and generative AI to streamline campaign workflows, delivering recommendations on budget allocation, target Return on Ad Spend, and SKU selection. The role involves designing and deploying large-scale machine learning models, collaborating with cross-functional teams, and solving impactful problems to directly impact revenue. Responsibilities include building models, working with stakeholders, collaborating with engineering teams, identifying data opportunities, and maintaining a customer-centric approach.",
+    "title_from_rss": "Wayfair hiring ML Scientist II in Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ml-scientist-ii-at-wayfair-4223786745",
+    "cover_letter": "**Shubham Agrawal**  \nMumbai, Maharashtra  \nEmail: shubhamagrawal790@gmail.com  \nPhone: +91 9039797263  \nDate: [Insert Date]  \n\n**Hiring Manager**  \nWayfair  \nBengaluru, Karnataka  \n\nDear Hiring Manager,  \n\nI am excited to apply for the Machine Learning Scientist II position at Wayfair, as advertised. With a robust background in machine learning, deep learning, and natural language processing (NLP), coupled with a proven track record of driving business impact through data-driven decision-making, I am confident in my ability to contribute meaningfully to Wayfair’s mission of delivering exceptional customer experiences in the e-commerce space.  \n\nIn my current role as AVP of Client Strategy and Analytics at Citi, I have successfully leveraged advanced machine learning techniques to model relationships between banker proactiveness and client revenue growth. Additionally, I utilized NLP to analyze client feedback, enabling the development of actionable client segmentation frameworks. My ability to process unstructured data through web scraping and the RAG framework has further underscored my technical proficiency in extracting insights from diverse data sources. These experiences have honed my ability to translate complex data into strategic business outcomes, a skill I am eager to bring to Wayfair.  \n\nPrior to Citi, I served as a Decision Analytics Associate Consultant at ZS, where I developed predictive models for customer engagement strategies and optimized marketing budgets using advanced techniques such as CNNs, Genetic Algorithms, and hybrid recommender systems. My work not only improved customer retention but also enhanced the precision of marketing campaigns, demonstrating my ability to balance technical innovation with practical business applications.  \n\nWayfair’s commitment to leveraging cutting-edge technology to redefine the home furnishings shopping experience deeply resonates with me. I am particularly drawn to the opportunity to contribute to a company that values data-driven decision-making and innovation. My technical expertise in Python, R, PySpark, and machine learning frameworks such as PyTorch and Keras aligns seamlessly with the tools and technologies that Wayfair employs. Furthermore, my ability to think critically and solve complex problems will enable me to make a meaningful impact from day one.  \n\nI am excited about the prospect of joining Wayfair’s talented team and contributing to the company’s continued success. I would welcome the opportunity to discuss how my skills, experience, and passion for machine learning can support Wayfair’s goals. Thank you for considering my application. I look forward to the possibility of contributing to Wayfair’s innovative journey.  \n\nSincerely,  \nShubham Agrawal"
+  },
+  {
+    "Job Title": "Data Science",
+    "Company": "Tata Electronics",
+    "Location": "Dholera, Gujarat, India",
+    "HR Details": null,
+    "HR Email": null,
+    "Date Posted": "2025-07-02T12:19:12.000Z",
+    "Number of Applicants": null,
+    "Top Skills Required": [
+      "Computer vision",
+      "Python",
+      "Linux OS",
+      "CNN",
+      "RNN",
+      "DNN",
+      "Machine Learning",
+      "Data Pipelines",
+      "AI/ML"
+    ],
+    "Experience": "2yrs - 5yrs",
+    "Summary of the job": "Tata Electronics Private Limited (TEPL) is a greenfield venture of the Tata Group with expertise in manufacturing precision components. Tata Electronics is building India’s first AI-enabled state-of-the-art Semiconductor Foundry. This facility will produce chips for applications such as power management IC, display drivers, microcontrollers (MCU) and high-performance computing logic, addressing the growing demand in markets such as automotive, computing and data storage, wireless communications and artificial intelligence. The role involves developing and implementing advanced machine learning models, computer vision algorithms, collaborating with data engineers, analyzing large datasets, and driving data-informed decision making. The ideal candidate should have a deep understanding of CNN, RNN, DNN’s mathematics, experience in computer vision model deployments, and excellent teamwork skills.",
+    "title_from_rss": "Tata Electronics hiring Data Science in Dholera, Gujarat, India",
+    "link": "https://in.linkedin.com/jobs/view/data-science-at-tata-electronics-4245487493",
+    "cover_letter": "Dear Hiring Manager,  \n\nI am writing to express my interest in the Data Science position at Tata Electronics in Dholera, Gujarat, India. With a strong academic foundation in Electrical Engineering and over four years of professional experience in data analytics, machine learning, and strategic decision-making, I am confident in my ability to contribute meaningfully to your team.  \n\nIn my current role as AVP, Client Strategy and Analytics at Citi, I have leveraged advanced data science techniques to drive business growth and optimize client engagement. I utilized web scraping and the RAG framework to process unstructured financial data, applied machine learning to model relationships between banker proactiveness and client revenue, and employed NLP to analyze client feedback and develop segmentation frameworks. These experiences have honed my ability to extract actionable insights from complex data and align them with business objectives.  \n\nPrior to Citi, I worked as a Decision Analytics Associate Consultant at ZS, where I focused on customer-centric marketing strategies. I developed predictive models for customer engagement, implemented CNNs and Genetic Algorithms for behavioral pattern recognition, and engineered hybrid recommender systems. Additionally, I optimized marketing budgets using MMM, demonstrating my ability to deliver data-driven solutions that enhance business performance.  \n\nMy technical expertise spans statistical analysis, predictive modeling, machine learning algorithms, deep learning, and NLP. I am proficient in Python, R, SQL, and PySpark, with experience in frameworks such as PyTorch and Keras. My ability to integrate data analysis with business acumen has consistently enabled me to identify opportunities for revenue growth and process optimization.  \n\nI am particularly drawn to Tata Electronics’ commitment to innovation and excellence in electronics manufacturing. I am excited about the opportunity to bring my skills and experience to your team and contribute to the company’s mission.  \n\nThank you for considering my application. I look forward to the possibility of discussing how my background aligns with the needs of your team.  \n\nSincerely,  \nShubham Agrawal  \n+91 9039797263  \nshubhamagrawal790@gmail.com"
+  },
+  {
+    "Job Title": "AI/ML Engineer",
+    "Company": "Weekday AI (YC W21)",
+    "Location": "Bengaluru, Karnataka, India",
+    "HR Details": null,
+    "HR Email": null,
+    "Date Posted": "2025-07-02",
+    "Number of Applicants": null,
+    "Top Skills Required": [
+      "Machine Learning",
+      "Deep Learning",
+      "NLP",
+      "Generative AI",
+      "PyTorch",
+      "TensorFlow",
+      "Python",
+      "Agentic AI",
+      "Prompt Engineering"
+    ],
+    "Experience": "4 years",
+    "Summary of the job": "This role is for one of Weekday's clients. We are seeking a passionate and highly skilled AI/ML Engineer to join our growing AI team. The ideal candidate has a strong foundation in ML algorithms, hands-on experience building end-to-end AI applications, and a deep understanding of developing intelligent agents that can reason, plan, and act autonomously.",
+    "title_from_rss": "Weekday AI (YC W21) hiring AI/ML Engineer in Bengaluru, Karnataka, India",
+    "link": "https://in.linkedin.com/jobs/view/ai-ml-engineer-at-weekday-ai-yc-w21-4260825099",
+    "cover_letter": "Dear Hiring Manager,\n\nI am writing to express my enthusiasm for the AI/ML Engineer position at Weekday AI. With a strong foundation in machine learning, deep learning, and natural language processing, coupled with hands-on experience in developing predictive models and optimizing business strategies, I am confident in my ability to contribute effectively to your team.\n\nIn my current role as AVP of Client Strategy and Analytics at Citi, I have leveraged web scraping and the RAG framework to process unstructured financial data, applied machine learning to model relationships between banker proactiveness and client revenue, and utilized NLP to analyze client feedback. These experiences have honed my ability to extract insights from complex data sets and translate them into actionable strategies. Additionally, my tenure at ZS as a Decision Analytics Associate Consultant allowed me to develop predictive models for customer engagement, implement CNNs and Genetic Algorithms for behavioral pattern recognition, and engineer hybrid recommender systems. These experiences have equipped me with a robust skill set in machine learning frameworks such as PyTorch and Keras, as well as programming languages like Python and R.\n\nI am particularly drawn to Weekday AI’s innovative approach to AI-driven solutions and its commitment to leveraging cutting-edge technology to solve real-world problems. My technical expertise in data processing with PySpark, data integration, and SQL databases aligns well with the requirements of this role. Moreover, my ability to optimize marketing budgets and implement market segmentation techniques demonstrates my capacity to drive revenue growth and make data-driven decisions.\n\nI am excited about the opportunity to bring my technical expertise, analytical mindset, and passion for AI/ML to Weekday AI. I am confident that my background and skills make me a strong fit for this role, and I look forward to the possibility of contributing to your team’s success.\n\nThank you for considering my application. I would welcome the opportunity to discuss how my experiences and skills align with the needs of your team.\n\nSincerely,  \nShubham Agrawal"
+  }
+]

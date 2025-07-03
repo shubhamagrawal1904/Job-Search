@@ -1,0 +1,14 @@
+langchain
+langgraph
+openpyxl
+pandas
+requests
+beautifulsoup4
+python-docx
+pdfplumber
+uvicorn
+streamlit 
+python-dotenv
+langchain_community
+langchain-groq
+feedparser
