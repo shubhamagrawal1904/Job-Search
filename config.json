@@ -1,7 +1,7 @@
 {
   "job_info_path": "data/job_info.json",
   "resume_info_path": "data/resume_info.json",
-  "llm_name": "groq",
-  "llm_model": "llama-3.1-8b-instant",
+  "llm_name": "openai",
+  "llm_model": "gpt-4.1-mini",
   "cover_letter_path": "data/cover_letter.txt"
 } 

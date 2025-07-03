@@ -57,7 +57,7 @@ if uploaded_file and rss_url:
     with tempfile.NamedTemporaryFile(delete=False, suffix=os.path.splitext(uploaded_file.name)[-1]) as tmp_file:
         tmp_file.write(uploaded_file.read())
         tmp_path = tmp_file.name
-    st.info("Parsing your resume with Groq LLM...")
+    st.info(f"Parsing your resume with {config['llm_name']} LLM...")
     try:
         resume_info = parse_resume(tmp_path)
         st.success("Resume parsed successfully!")

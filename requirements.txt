@@ -12,3 +12,4 @@ python-dotenv
 langchain_community
 langchain-groq
 feedparser
+langchain-openai
